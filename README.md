@@ -1,11 +1,14 @@
 ## Hi there 👋
-
 👩‍💻 Python Developer | Automation Engineer | DevOps Enthusiast  
-🛠 Working with Python, Django, Flask, Jenkins, Ansible, and REST APIs  
-🌱 Currently learning Cloud & contributing to automation tools  
-📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/khatripooja/) | [GitHub](https://github.com/poojakhatri)
+🚀 5+ years of experience in building backend systems, infrastructure automation, and scalable tools.  
+🛠 Skilled in Python, Django, Flask, Ansible, Jenkins, Git, and REST APIs.  
+📦 Passionate about writing clean, maintainable code and automating repetitive tasks.  
+📚 Lifelong learner exploring ML, cloud platforms & developer productivity tools.  
+🌱 Currently building real-world solutions with Python and contributing to open-source.
 
-![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojakhatri&show_icons=true&theme=radical)
+📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/khatripooja/)  
+
+<!-- ![Pooja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojakhatri&show_icons=true&theme=radical) -->
 <!--
 **poojakhatri/poojakhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
