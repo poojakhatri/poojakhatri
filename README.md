@@ -1,10 +1,15 @@
 ## Hi there 👋
 👩‍💻 Python Developer | Automation Engineer | DevOps Enthusiast  
-🚀 5+ years of experience in building backend systems, infrastructure automation, and scalable tools.  
-🛠 Skilled in Python, Django, Flask, Ansible, Jenkins, Git, and REST APIs.  
-📦 Passionate about writing clean, maintainable code and automating repetitive tasks.  
-📚 Lifelong learner exploring ML, cloud platforms & developer productivity tools.  
-🌱 Currently building real-world solutions with Python and contributing to open-source.
+🚀 6+ years of experience in building backend systems, infrastructure automation, and scalable tools.  
+
+🤖 Exploring Generative AI, MCP & AI Agents  
+🛠 Skilled in Python, Django, Flask, LangChain, FastAPI, MCP, Ansible, Jenkins, Git, and REST APIs  
+
+📦 Passionate about writing clean, maintainable code and automating repetitive tasks  
+🧠 Building AI-powered applications like PDF Q&A systems and intelligent workflows  
+
+📚 Lifelong learner exploring LLMs, cloud platforms & developer productivity tools  
+🌱 Currently working on real-world GenAI applications and contributing to open-source  
 
 📬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/khatripooja/)  
 
